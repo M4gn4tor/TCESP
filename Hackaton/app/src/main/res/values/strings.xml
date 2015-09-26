@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hackaton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textBuscar">O IEGM/TCESP é um valioso instrumento para avaliar a efetividade das ações das gestões municipais frente às necessidades e exigências da sociedade com relação aos aspectos de Educação, Saúde, Planejamento, Gestão Fiscal, Meio Ambiente, Proteção dos Cidadãos e Governança da Tecnologia da Informação</string>
+</resources>
